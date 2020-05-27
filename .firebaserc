@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanban-2e249": {
+      "hosting": {
+        "angular-kanban": [
+          "kanban-2e249"
+        ]
+      }
+    }
+  }
+}
