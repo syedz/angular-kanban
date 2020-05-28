@@ -2,7 +2,7 @@
   "hosting": [
     {
       "target": "angular-kanban",
-      "public": "dist/angular-kanban",
+      "public": "dist/angular-kanban/browser",
       "ignore": [
         "firebase.json",
         "**/.*",
